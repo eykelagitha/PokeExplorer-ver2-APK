@@ -66,7 +66,7 @@ eas build --platform android --profile preview
 
 | Versi | Version Code | Catatan |
 |---|---|---|
-| 1.0.0 | 1 | Rilis pertama — fitur inti lengkap |
+| 1.0.0 | 1 | Rilis pertama - fitur inti lengkap |
 
 ## 🎮 Coba Online (Expo Snack)
 
