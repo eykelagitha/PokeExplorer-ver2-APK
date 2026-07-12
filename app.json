@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "PokeExplorer",
+    "slug": "poke-explorer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#122E2E"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.eykel.pokeexplorer",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#122E2E",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "permissions": [
+        "INTERNET"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cf3e8611-2c32-483a-b039-5b3a5775a536"
+      }
+    },
+    "plugins": [
+      "expo-status-bar"
+    ],
+    "owner": "eykel21"
+  }
+}
